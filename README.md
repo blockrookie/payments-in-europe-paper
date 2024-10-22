@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/typeduke/payments-in-europe-paper
+You can find it here: https://github.com/pygumby/payments-in-europe-paper
